@@ -18,7 +18,6 @@ IMT2024018-Polynomial-Regression/
 │
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 │
 ├── data/
 │   ├── IMT2024018_train_var1.csv
@@ -33,8 +32,6 @@ IMT2024018-Polynomial-Regression/
 │   ├── inference_part1.py
 │   └── inference_part2.py
 │
-├── models/
-│   └── .gitkeep
 │
 └── results/
     ├── IMT2024018_pred_var1.csv
